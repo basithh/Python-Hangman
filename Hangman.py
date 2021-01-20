@@ -87,7 +87,7 @@ while che:
     hangman(point)
     print(str(tree_word))
     entered = True
-    letter = input("Guess the first \n")
+    letter = input("Guess the letter and press 'Enter' \n")
     for i in range(len(list_word)):
         if letter in list_word[i]:
             tree_word[i] = letter
