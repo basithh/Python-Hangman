@@ -5,10 +5,10 @@ Hangman is a paper and pencil guessing game for two or more players. One player 
 
 ### Specification
 
-Language : Python3 \n
-Intial Release Date : 20/01/2021 \n
-Source : Task/Video \n
-Is Commented on Program : No , contains one function \n
+Language : Python3 <br />
+Intial Release Date : 20/01/2021 <br />
+Source : Task/Video <br />
+Is Commented on Program : No , contains one function <br />
 
 
 
