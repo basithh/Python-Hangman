@@ -15,7 +15,7 @@ Support OS : Windows only , To suppport Linux and MAC comment the clear screen "
 
 ```
 git clone https://github.com/basithh/Python-Hangman.git
-python hangman.py
+python Hangman.py
 
 ```
 
